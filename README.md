@@ -1,4 +1,4 @@
-Homework: Hello, iOS!
+*Homework: Hello, iOS!*
 Create a scaffolded-out iOS application
 
 use the organization identifier "edu.uw.ischool.{your NetID}"
@@ -13,7 +13,7 @@ Change the default font size and colors (purple background and white italic bold
 
 Put the label in the upper-left corner (to avoid size issues)
 
-Homework: Steps
+*Homework: Steps*
 Target it to iOS iPhone 15 Pro (storyboard and execution target)
 
 Ensure it builds correctly
